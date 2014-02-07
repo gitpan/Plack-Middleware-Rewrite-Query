@@ -1,0 +1,10 @@
+CHANGES
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+cpanfile
+lib/Plack/Middleware/RewriteQuery.pm
+t/author-critic.t
+t/rewrite.t
