@@ -3,8 +3,14 @@ Changes from 2013-02-07 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.1.0 at 2014-02-07 11:21:05 +0000
+version 0.1.1 at 2014-02-07 11:25:16 +0000
 ------------------------------------------
+
+  Change: 6a2e3d31522e955169f7992f7bf60c76fb65cf41
+  Author: Jakob Voss <voss@gbv.de>
+  Date : 2014-02-07 12:25:12 +0000
+
+    bump version for relase at CPAN 
 
   Change: a8fb05c77a23d698b4cf883a1658989a6d6c7e83
   Author: Jakob Voss <voss@gbv.de>

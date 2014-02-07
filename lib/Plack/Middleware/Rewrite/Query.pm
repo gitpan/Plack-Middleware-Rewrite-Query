@@ -1,7 +1,7 @@
 use strict;
 package Plack::Middleware::Rewrite::Query;
 #ABSTRACT: Safely modify the QUERY_STRING of a PSGI request
-our $VERSION = '0.1.0'; #VERSION
+our $VERSION = '0.1.1'; #VERSION
 
 use parent qw(Plack::Middleware Exporter);
 use Plack::Util::Accessor qw(map modify);
@@ -67,7 +67,7 @@ Plack::Middleware::Rewrite::Query - Safely modify the QUERY_STRING of a PSGI req
 
 =head1 VERSION
 
-version 0.1.0
+version 0.1.1
 
 =head1 SYNOPSIS
 
